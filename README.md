@@ -25,7 +25,6 @@ Une application de gestion de pizzas qui permet aux utilisateurs de gérer les p
 - **Frontend**: Vue.js, Axios, HTML, CSS
 - **Backend**: Node.js, Express, Socket.IO, MySQL
 - **Outils de développement**: PhpStorm, Postman
-- **Middleware**: CORS pour la gestion des requêtes entre différentes origines.
 
 ## Installation
 
